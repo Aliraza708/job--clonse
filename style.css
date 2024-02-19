@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+}
+.cent{
+    text-align: center;
+    height: 300px !important;
+}
+.cent2 input{
+    width: 50px !important;
+
+}
+.but1{
+    height: 100px !important;
+    border-radius: 50% !important;
+}
+
+/* .dif{
+   padding-left: 100px !important;
+} */
